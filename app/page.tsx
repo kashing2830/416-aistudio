@@ -243,7 +243,7 @@ deploy({ env: 'production' })
             {[
               { icon: <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" />, title: '企業網站 / Landing Page', desc: '展示你的業務，吸引潛在客戶，建立品牌形象。', tag: '由 HKD $800', d: 'reveal-d1' },
               { icon: <><rect x="2" y="3" width="20" height="14" rx="2" /><path d="M8 21h8M12 17v4" /></>, title: 'Web App', desc: '有登入、預約、付款、管理功能的網絡應用系統。', tag: '由 HKD $2,000', d: 'reveal-d2' },
-              { icon: <><rect x="5" y="2" width="14" height="20" rx="2" /><path d="M12 18h.01" /></>, title: '手機 App', desc: 'iOS / Android 原生或 React Native 跨平台應用程式。', tag: '由 HKD $15,000', d: 'reveal-d3' },
+              { icon: <><rect x="5" y="2" width="14" height="20" rx="2" /><path d="M12 18h.01" /></>, title: '手機 App', desc: 'iOS / Android 原生或 React Native 跨平台應用程式。', tag: '由 HKD $5,000', d: 'reveal-d3' },
               { icon: <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />, title: '業務系統', desc: '庫存管理、客戶 CRM、內部工作流程等企業內部系統。', tag: '由 HKD $3,000', d: 'reveal-d1' },
               { icon: <><path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z" /><path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z" /></>, title: 'Pitch Deck', desc: '融資、銷售用的專業簡報，設計精美，一鍵演示。', tag: 'Add-on', d: 'reveal-d2' },
               { icon: <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />, title: 'Logo / 品牌視覺', desc: '基本品牌識別，Logo 設計、色彩方案、字型選擇。', tag: 'Add-on', d: 'reveal-d3' },
